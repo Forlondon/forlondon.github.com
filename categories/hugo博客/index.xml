@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Hugo博客 - 分类 - 骆子豪の个人小站</title>
-    <link>https://luozh.vip/categories/hugo%E5%8D%9A%E5%AE%A2/</link>
+    <link>http://localhost:1313/categories/hugo%E5%8D%9A%E5%AE%A2/</link>
     <description>Hugo博客 - 分类 | 骆子豪の个人小站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 09 May 2024 23:00:20 &#43;0800</lastBuildDate><atom:link href="https://luozh.vip/categories/hugo%E5%8D%9A%E5%AE%A2/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 09 May 2024 23:00:20 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/hugo%E5%8D%9A%E5%AE%A2/" rel="self" type="application/rss+xml" /><item>
   <title>Hello MyBlog</title>
-  <link>https://luozh.vip/posts/a1ee079/</link>
+  <link>http://localhost:1313/posts/a1ee079/</link>
   <pubDate>Thu, 09 May 2024 23:00:20 &#43;0800</pubDate>
   <author>luozh</author>
-  <guid>https://luozh.vip/posts/a1ee079/</guid>
+  <guid>http://localhost:1313/posts/a1ee079/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
