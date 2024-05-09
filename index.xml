@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>骆子豪の个人小站</title>
+    <link>https://luozh.vip/</link>
+    <description>骆子豪の个人小站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
+      <atom:link href="https://luozh.vip/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
