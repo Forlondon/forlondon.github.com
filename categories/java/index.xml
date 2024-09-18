@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>所有文章 - 骆子豪の个人小站</title>
-    <link>http://localhost:1313/posts/</link>
+    <title>Java - 分类 - 骆子豪の个人小站</title>
+    <link>http://localhost:1313/categories/java/</link>
     <description>骆子豪の个人小站</description>
     <generator>Hugo 0.134.2 &amp; FixIt v0.3.11</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 18 Sep 2024 22:58:26 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于byte取值范围的思考</title>
       <link>http://localhost:1313/posts/fc26088/</link>
@@ -15,14 +15,6 @@
       <guid>http://localhost:1313/posts/fc26088/</guid>
       <category domain="http://localhost:1313/categories/java/">Java</category>
       <description>关于byte取值范围的思考</description>
-    </item>
-    <item>
-      <title>Hello MyBlog</title>
-      <link>http://localhost:1313/posts/a1ee079/</link>
-      <pubDate>Sun, 15 Sep 2024 23:00:20 +0800</pubDate>
-      <guid>http://localhost:1313/posts/a1ee079/</guid>
-      <category domain="http://localhost:1313/categories/hugo%E5%8D%9A%E5%AE%A2/">Hugo博客</category>
-      <description>Hello MyBlog</description>
     </item>
   </channel>
 </rss>
